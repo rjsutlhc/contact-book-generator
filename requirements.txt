@@ -1,4 +1,4 @@
-Plaintext
 streamlit
 python-docx
+cffi
 weasyprint
